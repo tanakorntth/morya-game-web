@@ -49,7 +49,7 @@ gdjs.S05C_95CutHarvestCode.GDSpr_9595HarvestedBundleObjects2= [];
 
 gdjs.S05C_95CutHarvestCode.eventsList0 = function(runtimeScene) {
 
-};gdjs.S05C_95CutHarvestCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05C_95CutHarvestCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1416,7 +1416,7 @@ gdjs.S05C_95CutHarvestCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S05C_95CutHarvestCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S05C_95CutHarvestCode.userFunc0xb7e2c8(runtimeScene);
 
 }
 
@@ -1424,7 +1424,7 @@ gdjs.S05C_95CutHarvestCode.userFunc0x1bebde8(runtimeScene);
 };gdjs.S05C_95CutHarvestCode.eventsList2 = function(runtimeScene) {
 
 };gdjs.S05C_95CutHarvestCode.mapOfGDgdjs_9546S05C_959595CutHarvestCode_9546GDSpr_95959595KnifeToolObjects1Objects = Hashtable.newFrom({"Spr_KnifeTool": gdjs.S05C_95CutHarvestCode.GDSpr_9595KnifeToolObjects1});
-gdjs.S05C_95CutHarvestCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05C_95CutHarvestCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const engine =
     globalThis.MorYaS05C;
@@ -1451,14 +1451,14 @@ gdjs.S05C_95CutHarvestCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S05C_95CutHarvestCode.userFunc0x139def8(runtimeScene);
+gdjs.S05C_95CutHarvestCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
 };gdjs.S05C_95CutHarvestCode.eventsList4 = function(runtimeScene) {
 
-};gdjs.S05C_95CutHarvestCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05C_95CutHarvestCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const engine =
     globalThis.MorYaS05C;
@@ -1491,14 +1491,14 @@ gdjs.S05C_95CutHarvestCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S05C_95CutHarvestCode.userFunc0x2241390(runtimeScene);
+gdjs.S05C_95CutHarvestCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
 
 };gdjs.S05C_95CutHarvestCode.eventsList6 = function(runtimeScene) {
 
-};gdjs.S05C_95CutHarvestCode.userFunc0x2206488 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05C_95CutHarvestCode.userFunc0xb2a7e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const engine =
     globalThis.MorYaS05C;
@@ -1518,7 +1518,7 @@ gdjs.S05C_95CutHarvestCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.S05C_95CutHarvestCode.userFunc0x2206488(runtimeScene);
+gdjs.S05C_95CutHarvestCode.userFunc0xb2a7e0(runtimeScene);
 
 }
 
@@ -1526,7 +1526,7 @@ gdjs.S05C_95CutHarvestCode.userFunc0x2206488(runtimeScene);
 };gdjs.S05C_95CutHarvestCode.eventsList8 = function(runtimeScene) {
 
 };gdjs.S05C_95CutHarvestCode.mapOfGDgdjs_9546S05C_959595CutHarvestCode_9546GDBtn_95959595HarvestContinueObjects1Objects = Hashtable.newFrom({"Btn_HarvestContinue": gdjs.S05C_95CutHarvestCode.GDBtn_9595HarvestContinueObjects1});
-gdjs.S05C_95CutHarvestCode.userFunc0x1ab5e80 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05C_95CutHarvestCode.userFunc0x2878130 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1659,7 +1659,7 @@ gdjs.S05C_95CutHarvestCode.eventsList9 = function(runtimeScene) {
 {
 
 
-gdjs.S05C_95CutHarvestCode.userFunc0x1ab5e80(runtimeScene);
+gdjs.S05C_95CutHarvestCode.userFunc0x2878130(runtimeScene);
 
 }
 

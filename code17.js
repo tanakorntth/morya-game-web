@@ -93,7 +93,7 @@ gdjs.S06B_95HerbalDrinkCode.GDZone_9595Slice5Objects1= [];
 gdjs.S06B_95HerbalDrinkCode.GDZone_9595Slice5Objects2= [];
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1d18cb8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1c37650 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -201,14 +201,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1d18cb8(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1c37650(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList1 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0xe701a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1319,14 +1319,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xe701a0(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList3 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1857,7 +1857,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x139def8(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xb7e2c8(runtimeScene);
 
 }
 
@@ -1865,7 +1865,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x139def8(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList5 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDPROP_95959595S06_95959595KnifeObjects1Objects = Hashtable.newFrom({"PROP_S06_Knife": gdjs.S06B_95HerbalDrinkCode.GDPROP_9595S06_9595KnifeObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa22ff0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1993,14 +1993,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2241390(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa22ff0(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList7 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x16f4348 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0x12fb148 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2462,14 +2462,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList8 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x16f4348(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x12fb148(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList9 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5e80 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0xa8f660 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2564,7 +2564,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList10 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5e80(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa8f660(runtimeScene);
 
 }
 
@@ -2572,7 +2572,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5e80(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList11 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5d68 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xbcbcf8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3051,7 +3051,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList12 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5d68(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xbcbcf8(runtimeScene);
 
 }
 
@@ -3059,7 +3059,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x1ab5d68(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList13 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDSpr_95959595Drink_95959595IngredientObjects1Objects = Hashtable.newFrom({"Spr_Drink_Ingredient": gdjs.S06B_95HerbalDrinkCode.GDSpr_9595Drink_9595IngredientObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x9e2ba0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0x11de018 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S06B - START INGREDIENT DRAG
@@ -3151,12 +3151,12 @@ gdjs.S06B_95HerbalDrinkCode.eventsList14 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x9e2ba0(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x11de018(runtimeScene);
 
 }
 
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x1614728 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0x115c578 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S06B - UPDATE INGREDIENT DRAG
@@ -3239,12 +3239,12 @@ gdjs.S06B_95HerbalDrinkCode.eventsList15 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1614728(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x115c578(runtimeScene);
 
 }
 
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x11e2f00 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0xda2b98 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3721,7 +3721,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList16 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x11e2f00(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xda2b98(runtimeScene);
 
 }
 
@@ -3729,7 +3729,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x11e2f00(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList17 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c77678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xe46ea0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4018,14 +4018,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList18 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c77678(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xe46ea0(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList19 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0xa7a398 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0x94fe58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4305,7 +4305,7 @@ try {
 gdjs.S06B_95HerbalDrinkCode.eventsList20 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBar_95959595S06B_95959595BrewMeterObjects1Objects = Hashtable.newFrom({"Bar_S06B_BrewMeter": gdjs.S06B_95HerbalDrinkCode.GDBar_9595S06B_9595BrewMeterObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x16f4468 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa855d0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4934,7 +4934,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList21 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x16f4468(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa855d0(runtimeScene);
 
 }
 
@@ -4942,7 +4942,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x16f4468(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList22 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2206488 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa7bf70 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -5277,14 +5277,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList23 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2206488(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xa7bf70(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList24 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x1bebc88 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0x1852d20 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -5738,7 +5738,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList25 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1bebc88(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1852d20(runtimeScene);
 
 }
 
@@ -5746,7 +5746,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x1bebc88(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList26 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1a431c8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xb17be8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -6213,7 +6213,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList27 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1a431c8(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xb17be8(runtimeScene);
 
 }
 
@@ -6221,7 +6221,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x1a431c8(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList28 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x28b3d38 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1d2bbd8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -6462,14 +6462,14 @@ gdjs.S06B_95HerbalDrinkCode.eventsList29 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x28b3d38(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1d2bbd8(runtimeScene);
 
 }
 
 
 };gdjs.S06B_95HerbalDrinkCode.eventsList30 = function(runtimeScene) {
 
-};gdjs.S06B_95HerbalDrinkCode.userFunc0x16f8230 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06B_95HerbalDrinkCode.userFunc0x119b788 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -6643,7 +6643,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList31 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x16f8230(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x119b788(runtimeScene);
 
 }
 
@@ -6651,7 +6651,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x16f8230(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList32 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2896800 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xe0c410 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -7381,7 +7381,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList33 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x2896800(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xe0c410(runtimeScene);
 
 }
 
@@ -7389,7 +7389,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x2896800(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList34 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595ActionObjects1Objects = Hashtable.newFrom({"Btn_S06B_Action": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595ActionObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c55c00 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0xbbbdb8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -7775,7 +7775,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList35 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c55c00(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0xbbbdb8(runtimeScene);
 
 }
 
@@ -7783,7 +7783,7 @@ gdjs.S06B_95HerbalDrinkCode.userFunc0x1c55c00(runtimeScene);
 };gdjs.S06B_95HerbalDrinkCode.eventsList36 = function(runtimeScene) {
 
 };gdjs.S06B_95HerbalDrinkCode.mapOfGDgdjs_9546S06B_959595HerbalDrinkCode_9546GDBtn_95959595S06B_95959595BackObjects1Objects = Hashtable.newFrom({"Btn_S06B_Back": gdjs.S06B_95HerbalDrinkCode.GDBtn_9595S06B_9595BackObjects1});
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c403e8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1cc1680 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -7926,7 +7926,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList37 = function(runtimeScene) {
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0x1c403e8(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x1cc1680(runtimeScene);
 
 }
 
@@ -8219,7 +8219,7 @@ gdjs.S06B_95HerbalDrinkCode.eventsList19(runtimeScene);
 {
 
 
-gdjs.S06B_95HerbalDrinkCode.userFunc0xa7a398(runtimeScene);
+gdjs.S06B_95HerbalDrinkCode.userFunc0x94fe58(runtimeScene);
 
 }
 

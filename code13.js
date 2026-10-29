@@ -45,7 +45,7 @@ gdjs.S05A_95HarvestMinigameCode.GDSpr_9595UndergroundPlantRhizomeObjects1= [];
 gdjs.S05A_95HarvestMinigameCode.GDSpr_9595UndergroundPlantRhizomeObjects2= [];
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -881,13 +881,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDZone_95959595Dig1Objects1Objects = Hashtable.newFrom({"Zone_Dig1": gdjs.S05A_95HarvestMinigameCode.GDZone_9595Dig1Objects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestDig(
     runtimeScene,
@@ -899,13 +899,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x139def8(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDZone_95959595Dig2Objects1Objects = Hashtable.newFrom({"Zone_Dig2": gdjs.S05A_95HarvestMinigameCode.GDZone_9595Dig2Objects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1c77548 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x1a67c70 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestDig(
     runtimeScene,
@@ -917,13 +917,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1c77548(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x1a67c70(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDZone_95959595Dig3Objects1Objects = Hashtable.newFrom({"Zone_Dig3": gdjs.S05A_95HarvestMinigameCode.GDZone_9595Dig3Objects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x2b45f88 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x94d118 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestDig(
     runtimeScene,
@@ -935,13 +935,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x2b45f88(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x94d118(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDZone_95959595Dig4Objects1Objects = Hashtable.newFrom({"Zone_Dig4": gdjs.S05A_95HarvestMinigameCode.GDZone_9595Dig4Objects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x143d820 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x12bf3f8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestDig(
     runtimeScene,
@@ -953,13 +953,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x143d820(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x12bf3f8(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDZone_95959595Dig5Objects1Objects = Hashtable.newFrom({"Zone_Dig5": gdjs.S05A_95HarvestMinigameCode.GDZone_9595Dig5Objects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x133aec8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11de018 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestDig(
     runtimeScene,
@@ -971,14 +971,14 @@ gdjs.S05A_95HarvestMinigameCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x133aec8(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11de018(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDSpr_95959595GingerRhizomeHarvestedObjects1Objects = Hashtable.newFrom({"Spr_GingerRhizomeHarvested": gdjs.S05A_95HarvestMinigameCode.GDSpr_9595GingerRhizomeHarvestedObjects1});
 gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDSpr_95959595BasketObjects1Objects = Hashtable.newFrom({"Spr_Basket": gdjs.S05A_95HarvestMinigameCode.GDSpr_9595BasketObjects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1614798 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11f4678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaHarvestCollect(
     runtimeScene
@@ -989,13 +989,13 @@ gdjs.S05A_95HarvestMinigameCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1614798(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11f4678(runtimeScene);
 
 }
 
 
 };gdjs.S05A_95HarvestMinigameCode.mapOfGDgdjs_9546S05A_959595HarvestMinigameCode_9546GDBtn_95959595HarvestContinueObjects1Objects = Hashtable.newFrom({"Btn_HarvestContinue": gdjs.S05A_95HarvestMinigameCode.GDBtn_9595HarvestContinueObjects1});
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1545360 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11ed928 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1100,7 +1100,7 @@ gdjs.S05A_95HarvestMinigameCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.S05A_95HarvestMinigameCode.userFunc0x1545360(runtimeScene);
+gdjs.S05A_95HarvestMinigameCode.userFunc0x11ed928(runtimeScene);
 
 }
 

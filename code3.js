@@ -19,7 +19,7 @@ gdjs.S02_95CaseIntroCode.GDBtn_9595EnterCaseObjects1= [];
 gdjs.S02_95CaseIntroCode.GDBtn_9595EnterCaseObjects2= [];
 
 
-gdjs.S02_95CaseIntroCode.userFunc0x14bcaf8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S02_95CaseIntroCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -127,12 +127,12 @@ gdjs.S02_95CaseIntroCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S02_95CaseIntroCode.userFunc0x14bcaf8(runtimeScene);
+gdjs.S02_95CaseIntroCode.userFunc0x1368998(runtimeScene);
 
 }
 
 
-};gdjs.S02_95CaseIntroCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S02_95CaseIntroCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -506,12 +506,12 @@ gdjs.S02_95CaseIntroCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S02_95CaseIntroCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S02_95CaseIntroCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
-};gdjs.S02_95CaseIntroCode.userFunc0x133b038 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S02_95CaseIntroCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -945,12 +945,12 @@ gdjs.S02_95CaseIntroCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S02_95CaseIntroCode.userFunc0x133b038(runtimeScene);
+gdjs.S02_95CaseIntroCode.userFunc0x9cf2a0(runtimeScene);
 
 }
 
 
-};gdjs.S02_95CaseIntroCode.userFunc0x179dc60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S02_95CaseIntroCode.userFunc0x20ea008 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1152,7 +1152,7 @@ gdjs.S02_95CaseIntroCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S02_95CaseIntroCode.userFunc0x179dc60(runtimeScene);
+gdjs.S02_95CaseIntroCode.userFunc0x20ea008(runtimeScene);
 
 }
 

@@ -91,7 +91,7 @@ gdjs.S05_95InterventionCode.GDTxt_9595HerbPartLabelObjects1= [];
 gdjs.S05_95InterventionCode.GDTxt_9595HerbPartLabelObjects2= [];
 
 
-gdjs.S05_95InterventionCode.userFunc0x10fa490 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x21b5540 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -199,12 +199,12 @@ gdjs.S05_95InterventionCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x10fa490(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x21b5540(runtimeScene);
 
 }
 
 
-};gdjs.S05_95InterventionCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05_95InterventionCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2729,7 +2729,7 @@ if (
     );
 }
 };
-gdjs.S05_95InterventionCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2803,7 +2803,7 @@ gdjs.S05_95InterventionCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x1278678(runtimeScene);
 
 }
 
@@ -2811,13 +2811,13 @@ gdjs.S05_95InterventionCode.userFunc0x1bebde8(runtimeScene);
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x139def8(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDHotspot_95959595HerbGingerObjects1Objects = Hashtable.newFrom({"Hotspot_HerbGinger": gdjs.S05_95InterventionCode.GDHotspot_9595HerbGingerObjects1});
-gdjs.S05_95InterventionCode.userFunc0x1e3ac18 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xb2a7e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLICK HERB: GINGER");
 
@@ -2839,13 +2839,13 @@ gdjs.S05_95InterventionCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1e3ac18(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xb2a7e0(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDHotspot_95959595HerbHolyBasilObjects1Objects = Hashtable.newFrom({"Hotspot_HerbHolyBasil": gdjs.S05_95InterventionCode.GDHotspot_9595HerbHolyBasilObjects1});
-gdjs.S05_95InterventionCode.userFunc0x14bcaf8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLICK HERB: HOLY BASIL");
 
@@ -2867,13 +2867,13 @@ gdjs.S05_95InterventionCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x14bcaf8(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x1368998(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDHotspot_95959595HerbLemongrassObjects1Objects = Hashtable.newFrom({"Hotspot_HerbLemongrass": gdjs.S05_95InterventionCode.GDHotspot_9595HerbLemongrassObjects1});
-gdjs.S05_95InterventionCode.userFunc0x1ab5e80 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x1a67c70 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLICK HERB: LEMONGRASS");
 
@@ -2895,13 +2895,13 @@ gdjs.S05_95InterventionCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1ab5e80(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x1a67c70(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDHotspot_95959595HerbAndrographisObjects1Objects = Hashtable.newFrom({"Hotspot_HerbAndrographis": gdjs.S05_95InterventionCode.GDHotspot_9595HerbAndrographisObjects1});
-gdjs.S05_95InterventionCode.userFunc0xc25758 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xafc268 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLICK HERB: ANDROGRAPHIS");
 
@@ -2923,13 +2923,13 @@ gdjs.S05_95InterventionCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0xc25758(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xafc268(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDHotspot_95959595HerbSennaObjects1Objects = Hashtable.newFrom({"Hotspot_HerbSenna": gdjs.S05_95InterventionCode.GDHotspot_9595HerbSennaObjects1});
-gdjs.S05_95InterventionCode.userFunc0x179db88 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xa23020 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLICK HERB: SENNA");
 
@@ -2951,12 +2951,12 @@ gdjs.S05_95InterventionCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x179db88(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xa23020(runtimeScene);
 
 }
 
 
-};gdjs.S05_95InterventionCode.userFunc0x1614840 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05_95InterventionCode.userFunc0xb43340 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3219,7 +3219,7 @@ try {
     );
 }
 };
-gdjs.S05_95InterventionCode.userFunc0x1ab5d40 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x2124110 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4301,7 +4301,7 @@ gdjs.S05_95InterventionCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1614840(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xb43340(runtimeScene);
 
 }
 
@@ -4309,13 +4309,13 @@ gdjs.S05_95InterventionCode.userFunc0x1614840(runtimeScene);
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1ab5d40(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x2124110(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595HerbInspectCloseObjects1Objects = Hashtable.newFrom({"Btn_HerbInspectClose": gdjs.S05_95InterventionCode.GDBtn_9595HerbInspectCloseObjects1});
-gdjs.S05_95InterventionCode.userFunc0x1977c68 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xbcbcf8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 CLOSE INSPECT");
 
@@ -4336,13 +4336,13 @@ gdjs.S05_95InterventionCode.eventsList8 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1977c68(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xbcbcf8(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595SelectAnotherPartObjects1Objects = Hashtable.newFrom({"Btn_SelectAnotherPart": gdjs.S05_95InterventionCode.GDBtn_9595SelectAnotherPartObjects1});
-gdjs.S05_95InterventionCode.userFunc0x10e45f0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x7cff40 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 console.log("S05 SELECT ANOTHER PART");
 
@@ -4363,13 +4363,13 @@ gdjs.S05_95InterventionCode.eventsList9 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x10e45f0(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x7cff40(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595AddToBasketObjects1Objects = Hashtable.newFrom({"Btn_AddToBasket": gdjs.S05_95InterventionCode.GDBtn_9595AddToBasketObjects1});
-gdjs.S05_95InterventionCode.userFunc0x11e2d78 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x9c0118 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 if (
     typeof globalThis.MorYaS05AddToBasket ===
@@ -4386,13 +4386,13 @@ gdjs.S05_95InterventionCode.eventsList10 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x11e2d78(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x9c0118(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595BackToDispositionObjects1Objects = Hashtable.newFrom({"Btn_BackToDisposition": gdjs.S05_95InterventionCode.GDBtn_9595BackToDispositionObjects1});
-gdjs.S05_95InterventionCode.userFunc0x1c4b020 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0xb446a8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4445,12 +4445,12 @@ gdjs.S05_95InterventionCode.eventsList11 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1c4b020(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xb446a8(runtimeScene);
 
 }
 
 
-};gdjs.S05_95InterventionCode.userFunc0x2206488 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05_95InterventionCode.userFunc0xe4b5c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4907,13 +4907,13 @@ gdjs.S05_95InterventionCode.eventsList12 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x2206488(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0xe4b5c8(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595BasketChangeObjects1Objects = Hashtable.newFrom({"Btn_BasketChange": gdjs.S05_95InterventionCode.GDBtn_9595BasketChangeObjects1});
-gdjs.S05_95InterventionCode.userFunc0x1a43118 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x1c6f830 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4998,13 +4998,13 @@ gdjs.S05_95InterventionCode.eventsList13 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0x1a43118(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x1c6f830(runtimeScene);
 
 }
 
 
 };gdjs.S05_95InterventionCode.mapOfGDgdjs_9546S05_959595InterventionCode_9546GDBtn_95959595BasketContinueObjects1Objects = Hashtable.newFrom({"Btn_BasketContinue": gdjs.S05_95InterventionCode.GDBtn_9595BasketContinueObjects1});
-gdjs.S05_95InterventionCode.userFunc0xdc63e8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05_95InterventionCode.userFunc0x1f34170 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -5253,7 +5253,7 @@ gdjs.S05_95InterventionCode.eventsList14 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95InterventionCode.userFunc0xdc63e8(runtimeScene);
+gdjs.S05_95InterventionCode.userFunc0x1f34170(runtimeScene);
 
 }
 

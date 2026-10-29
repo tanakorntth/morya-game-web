@@ -31,7 +31,7 @@ gdjs.S01_95MainMenuCode.GDTxt_9595ProfileProgressObjects1= [];
 gdjs.S01_95MainMenuCode.GDTxt_9595ProfileProgressObjects2= [];
 
 
-gdjs.S01_95MainMenuCode.userFunc0x133b038 = function GDJSInlineCode(runtimeScene) {
+gdjs.S01_95MainMenuCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -139,12 +139,12 @@ gdjs.S01_95MainMenuCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95MainMenuCode.userFunc0x133b038(runtimeScene);
+gdjs.S01_95MainMenuCode.userFunc0x9cf2a0(runtimeScene);
 
 }
 
 
-};gdjs.S01_95MainMenuCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S01_95MainMenuCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -358,12 +358,12 @@ gdjs.S01_95MainMenuCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95MainMenuCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S01_95MainMenuCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
-};gdjs.S01_95MainMenuCode.userFunc0x179dc60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S01_95MainMenuCode.userFunc0x20ea008 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -769,12 +769,12 @@ gdjs.S01_95MainMenuCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95MainMenuCode.userFunc0x179dc60(runtimeScene);
+gdjs.S01_95MainMenuCode.userFunc0x20ea008(runtimeScene);
 
 }
 
 
-};gdjs.S01_95MainMenuCode.userFunc0x14bcaf8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S01_95MainMenuCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1116,7 +1116,7 @@ gdjs.S01_95MainMenuCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95MainMenuCode.userFunc0x14bcaf8(runtimeScene);
+gdjs.S01_95MainMenuCode.userFunc0x1368998(runtimeScene);
 
 }
 

@@ -49,7 +49,7 @@ gdjs.S06_95FoodPreparationCode.GDZone_9595S06_9595TimingTargetObjects1= [];
 gdjs.S06_95FoodPreparationCode.GDZone_9595S06_9595TimingTargetObjects2= [];
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x22412b8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95FoodPreparationCode.userFunc0x12fbdb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -157,14 +157,14 @@ gdjs.S06_95FoodPreparationCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x22412b8(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0x12fbdb0(runtimeScene);
 
 }
 
 
 };gdjs.S06_95FoodPreparationCode.eventsList1 = function(runtimeScene) {
 
-};gdjs.S06_95FoodPreparationCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95FoodPreparationCode.userFunc0xe701a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -476,14 +476,14 @@ gdjs.S06_95FoodPreparationCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0xe701a0(runtimeScene);
 
 }
 
 
 };gdjs.S06_95FoodPreparationCode.eventsList3 = function(runtimeScene) {
 
-};gdjs.S06_95FoodPreparationCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95FoodPreparationCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1188,12 +1188,12 @@ gdjs.S06_95FoodPreparationCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x139def8(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0xb7e2c8(runtimeScene);
 
 }
 
 
-};gdjs.S06_95FoodPreparationCode.userFunc0x2206488 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95FoodPreparationCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1686,7 +1686,7 @@ try {
     );
 }
 };
-gdjs.S06_95FoodPreparationCode.userFunc0x14bcaf8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95FoodPreparationCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2713,7 +2713,7 @@ try {
     );
 }
 };
-gdjs.S06_95FoodPreparationCode.userFunc0x179dc60 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95FoodPreparationCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3609,7 +3609,7 @@ try {
     );
 }
 };
-gdjs.S06_95FoodPreparationCode.userFunc0x1ab5e80 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95FoodPreparationCode.userFunc0x9579f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4069,7 +4069,7 @@ gdjs.S06_95FoodPreparationCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x2206488(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
@@ -4077,7 +4077,7 @@ gdjs.S06_95FoodPreparationCode.userFunc0x2206488(runtimeScene);
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x14bcaf8(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0x135c8e8(runtimeScene);
 
 }
 
@@ -4085,7 +4085,7 @@ gdjs.S06_95FoodPreparationCode.userFunc0x14bcaf8(runtimeScene);
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x179dc60(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0x18243e0(runtimeScene);
 
 }
 
@@ -4093,12 +4093,12 @@ gdjs.S06_95FoodPreparationCode.userFunc0x179dc60(runtimeScene);
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x1ab5e80(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0x9579f0(runtimeScene);
 
 }
 
 
-};gdjs.S06_95FoodPreparationCode.userFunc0x1c77548 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95FoodPreparationCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4253,7 +4253,7 @@ gdjs.S06_95FoodPreparationCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95FoodPreparationCode.userFunc0x1c77548(runtimeScene);
+gdjs.S06_95FoodPreparationCode.userFunc0x9cf2a0(runtimeScene);
 
 }
 

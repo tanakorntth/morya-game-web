@@ -59,7 +59,7 @@ gdjs.S04_95DispositionCode.GDBtn_9595DispositionContinueObjects1= [];
 gdjs.S04_95DispositionCode.GDBtn_9595DispositionContinueObjects2= [];
 
 
-gdjs.S04_95DispositionCode.userFunc0x1db8798 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0xa23038 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -167,12 +167,12 @@ gdjs.S04_95DispositionCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x1db8798(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0xa23038(runtimeScene);
 
 }
 
 
-};gdjs.S04_95DispositionCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S04_95DispositionCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -319,13 +319,13 @@ gdjs.S04_95DispositionCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDCard_95959595CaseFileObjects1Objects = Hashtable.newFrom({"Card_CaseFile": gdjs.S04_95DispositionCode.GDCard_9595CaseFileObjects1});
-gdjs.S04_95DispositionCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S04 - START DRAG
@@ -415,12 +415,12 @@ gdjs.S04_95DispositionCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x139def8(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
 
-};gdjs.S04_95DispositionCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S04_95DispositionCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S04 - DRAG UPDATE
@@ -582,7 +582,7 @@ try {
     );
 }
 };
-gdjs.S04_95DispositionCode.userFunc0x1e3ac18 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S04 - DROP + OPEN CONFIRM DIRECTLY
@@ -874,7 +874,7 @@ try {
     );
 }
 };
-gdjs.S04_95DispositionCode.userFunc0x14bcaf8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1781,7 +1781,7 @@ gdjs.S04_95DispositionCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x1e3ac18(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x1368998(runtimeScene);
 
 }
 
@@ -1789,13 +1789,13 @@ gdjs.S04_95DispositionCode.userFunc0x1e3ac18(runtimeScene);
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x14bcaf8(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x9cf2a0(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDPROP_95959595NOTEBOOKObjects1Objects = Hashtable.newFrom({"PROP_NOTEBOOK": gdjs.S04_95DispositionCode.GDPROP_9595NOTEBOOKObjects1});
-gdjs.S04_95DispositionCode.userFunc0x1335e78 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x123d0b0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S04 - OPEN CLUE BOOK DIRECTLY
@@ -2141,13 +2141,13 @@ gdjs.S04_95DispositionCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x1335e78(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x123d0b0(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDBtn_95959595ClueBookCloseObjects1Objects = Hashtable.newFrom({"Btn_ClueBookClose": gdjs.S04_95DispositionCode.GDBtn_9595ClueBookCloseObjects1});
-gdjs.S04_95DispositionCode.userFunc0x2b45fd0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x1a67c70 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2293,7 +2293,7 @@ try {
     );
 }
 };
-gdjs.S04_95DispositionCode.userFunc0xa08140 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x11ec198 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2374,7 +2374,7 @@ gdjs.S04_95DispositionCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x2b45fd0(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x1a67c70(runtimeScene);
 
 }
 
@@ -2382,13 +2382,13 @@ gdjs.S04_95DispositionCode.userFunc0x2b45fd0(runtimeScene);
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0xa08140(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x11ec198(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDBtn_95959595DispositionConfirmObjects1Objects = Hashtable.newFrom({"Btn_DispositionConfirm": gdjs.S04_95DispositionCode.GDBtn_9595DispositionConfirmObjects1});
-gdjs.S04_95DispositionCode.userFunc0xa7a570 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0xc0b7a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2705,13 +2705,13 @@ gdjs.S04_95DispositionCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0xa7a570(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0xc0b7a0(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDBtn_95959595BackToEncounterObjects1Objects = Hashtable.newFrom({"Btn_BackToEncounter": gdjs.S04_95DispositionCode.GDBtn_9595BackToEncounterObjects1});
-gdjs.S04_95DispositionCode.userFunc0x1662b30 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0xe5ec28 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S04 - BACK TO S03
@@ -2738,13 +2738,13 @@ gdjs.S04_95DispositionCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x1662b30(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0xe5ec28(runtimeScene);
 
 }
 
 
 };gdjs.S04_95DispositionCode.mapOfGDgdjs_9546S04_959595DispositionCode_9546GDBtn_95959595DispositionContinueObjects1Objects = Hashtable.newFrom({"Btn_DispositionContinue": gdjs.S04_95DispositionCode.GDBtn_9595DispositionContinueObjects1});
-gdjs.S04_95DispositionCode.userFunc0xe2f838 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95DispositionCode.userFunc0x115c560 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3008,7 +3008,7 @@ gdjs.S04_95DispositionCode.eventsList8 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0xe2f838(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x115c560(runtimeScene);
 
 }
 
@@ -3068,7 +3068,7 @@ gdjs.S04_95DispositionCode.eventsList2(runtimeScene);} //End of subevents
 {
 
 
-gdjs.S04_95DispositionCode.userFunc0x2241390(runtimeScene);
+gdjs.S04_95DispositionCode.userFunc0x135c8e8(runtimeScene);
 
 }
 

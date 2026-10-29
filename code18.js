@@ -41,7 +41,7 @@ gdjs.S06_95CounsellingCode.GDTxt_9595Card05Objects1= [];
 gdjs.S06_95CounsellingCode.GDTxt_9595Card05Objects2= [];
 
 
-gdjs.S06_95CounsellingCode.userFunc0x28b3e30 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95CounsellingCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -149,12 +149,12 @@ gdjs.S06_95CounsellingCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95CounsellingCode.userFunc0x28b3e30(runtimeScene);
+gdjs.S06_95CounsellingCode.userFunc0x180d318(runtimeScene);
 
 }
 
 
-};gdjs.S06_95CounsellingCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95CounsellingCode.userFunc0xe701a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1078,12 +1078,12 @@ gdjs.S06_95CounsellingCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95CounsellingCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S06_95CounsellingCode.userFunc0xe701a0(runtimeScene);
 
 }
 
 
-};gdjs.S06_95CounsellingCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95CounsellingCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1889,12 +1889,12 @@ gdjs.S06_95CounsellingCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95CounsellingCode.userFunc0x139def8(runtimeScene);
+gdjs.S06_95CounsellingCode.userFunc0xb7e2c8(runtimeScene);
 
 }
 
 
-};gdjs.S06_95CounsellingCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95CounsellingCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2473,7 +2473,7 @@ gdjs.S06_95CounsellingCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95CounsellingCode.userFunc0x2241390(runtimeScene);
+gdjs.S06_95CounsellingCode.userFunc0xbb6e58(runtimeScene);
 
 }
 

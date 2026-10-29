@@ -15,7 +15,7 @@ gdjs.S04_95Disposition2_95LegacyCode.GDBtn_9595BackInterviewObjects1= [];
 gdjs.S04_95Disposition2_95LegacyCode.GDBtn_9595BackInterviewObjects2= [];
 
 
-gdjs.S04_95Disposition2_95LegacyCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95Disposition2_95LegacyCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -254,7 +254,7 @@ gdjs.S04_95Disposition2_95LegacyCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S04_95Disposition2_95LegacyCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S04_95Disposition2_95LegacyCode.userFunc0x1278678(runtimeScene);
 
 }
 
@@ -269,7 +269,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.S04_95Disposition2_95LegacyCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S04_95Disposition2_95LegacyCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -893,7 +893,7 @@ gdjs.evtTools.runtimeScene
         false
     );
 };
-gdjs.S04_95Disposition2_95LegacyCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04_95Disposition2_95LegacyCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -985,7 +985,7 @@ gdjs.S04_95Disposition2_95LegacyCode.eventsList0(runtimeScene);} //End of subeve
 {
 
 
-gdjs.S04_95Disposition2_95LegacyCode.userFunc0x139def8(runtimeScene);
+gdjs.S04_95Disposition2_95LegacyCode.userFunc0xbb6e58(runtimeScene);
 
 }
 
@@ -993,7 +993,7 @@ gdjs.S04_95Disposition2_95LegacyCode.userFunc0x139def8(runtimeScene);
 {
 
 
-gdjs.S04_95Disposition2_95LegacyCode.userFunc0x2241390(runtimeScene);
+gdjs.S04_95Disposition2_95LegacyCode.userFunc0x135c8e8(runtimeScene);
 
 }
 

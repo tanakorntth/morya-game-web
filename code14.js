@@ -49,7 +49,7 @@ gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf5Objects2= [];
 
 gdjs.S05B_95PluckHarvestCode.eventsList0 = function(runtimeScene) {
 
-};gdjs.S05B_95PluckHarvestCode.userFunc0x1bebde8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05B_95PluckHarvestCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1039,7 +1039,7 @@ gdjs.S05B_95PluckHarvestCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1bebde8(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0xb7e2c8(runtimeScene);
 
 }
 
@@ -1047,7 +1047,7 @@ gdjs.S05B_95PluckHarvestCode.userFunc0x1bebde8(runtimeScene);
 };gdjs.S05B_95PluckHarvestCode.eventsList2 = function(runtimeScene) {
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDZone_95959595Leaf1Objects1Objects = Hashtable.newFrom({"Zone_Leaf1": gdjs.S05B_95PluckHarvestCode.GDZone_9595Leaf1Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x139def8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.selectLeaf(1);
 };
@@ -1056,13 +1056,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x139def8(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x1278678(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDZone_95959595Leaf2Objects1Objects = Hashtable.newFrom({"Zone_Leaf2": gdjs.S05B_95PluckHarvestCode.GDZone_9595Leaf2Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.selectLeaf(2);
 
@@ -1072,13 +1072,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x2241390(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x135c8e8(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDZone_95959595Leaf3Objects1Objects = Hashtable.newFrom({"Zone_Leaf3": gdjs.S05B_95PluckHarvestCode.GDZone_9595Leaf3Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x1ab5e80 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.selectLeaf(3);
 };
@@ -1087,13 +1087,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1ab5e80(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x18243e0(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDZone_95959595Leaf4Objects1Objects = Hashtable.newFrom({"Zone_Leaf4": gdjs.S05B_95PluckHarvestCode.GDZone_9595Leaf4Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x1e3ab20 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x1a67c70 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.selectLeaf(4);
 };
@@ -1102,13 +1102,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1e3ab20(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x1a67c70(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDZone_95959595Leaf5Objects1Objects = Hashtable.newFrom({"Zone_Leaf5": gdjs.S05B_95PluckHarvestCode.GDZone_9595Leaf5Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x2b45fb0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0xa0fdb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.selectLeaf(5);
 };
@@ -1117,7 +1117,7 @@ gdjs.S05B_95PluckHarvestCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x2b45fb0(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0xa0fdb0(runtimeScene);
 
 }
 
@@ -1125,7 +1125,7 @@ gdjs.S05B_95PluckHarvestCode.userFunc0x2b45fb0(runtimeScene);
 };gdjs.S05B_95PluckHarvestCode.eventsList8 = function(runtimeScene) {
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDSpr_95959595PluckLeaf1Objects1Objects = Hashtable.newFrom({"Spr_PluckLeaf1": gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf1Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0xa7a500 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x11ec1c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.startDrag(1);
 };
@@ -1134,13 +1134,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList9 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0xa7a500(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x11ec1c0(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDSpr_95959595PluckLeaf2Objects1Objects = Hashtable.newFrom({"Spr_PluckLeaf2": gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf2Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x1ab5d40 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x29409f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.startDrag(2);
 };
@@ -1149,13 +1149,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList10 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1ab5d40(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x29409f0(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDSpr_95959595PluckLeaf3Objects1Objects = Hashtable.newFrom({"Spr_PluckLeaf3": gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf3Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x114ad48 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0xa8f638 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.startDrag(3);
 };
@@ -1164,13 +1164,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList11 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x114ad48(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0xa8f638(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDSpr_95959595PluckLeaf4Objects1Objects = Hashtable.newFrom({"Spr_PluckLeaf4": gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf4Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x1335f68 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x11ed8d0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.startDrag(4);
 
@@ -1180,13 +1180,13 @@ gdjs.S05B_95PluckHarvestCode.eventsList12 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1335f68(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x11ed8d0(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDSpr_95959595PluckLeaf5Objects1Objects = Hashtable.newFrom({"Spr_PluckLeaf5": gdjs.S05B_95PluckHarvestCode.GDSpr_9595PluckLeaf5Objects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x1c77678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0xb446a8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.startDrag(5);
 };
@@ -1195,14 +1195,14 @@ gdjs.S05B_95PluckHarvestCode.eventsList13 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x1c77678(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0xb446a8(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.eventsList14 = function(runtimeScene) {
 
-};gdjs.S05B_95PluckHarvestCode.userFunc0x22065b8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05B_95PluckHarvestCode.userFunc0xe46ef8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.updateDrag();
 };
@@ -1211,14 +1211,14 @@ gdjs.S05B_95PluckHarvestCode.eventsList15 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x22065b8(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0xe46ef8(runtimeScene);
 
 }
 
 
 };gdjs.S05B_95PluckHarvestCode.eventsList16 = function(runtimeScene) {
 
-};gdjs.S05B_95PluckHarvestCode.userFunc0xe2f6a0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05B_95PluckHarvestCode.userFunc0x94fe58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 globalThis.MorYaS05B.dropLeaf();
 };
@@ -1227,7 +1227,7 @@ gdjs.S05B_95PluckHarvestCode.eventsList17 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0xe2f6a0(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x94fe58(runtimeScene);
 
 }
 
@@ -1235,7 +1235,7 @@ gdjs.S05B_95PluckHarvestCode.userFunc0xe2f6a0(runtimeScene);
 };gdjs.S05B_95PluckHarvestCode.eventsList18 = function(runtimeScene) {
 
 };gdjs.S05B_95PluckHarvestCode.mapOfGDgdjs_9546S05B_959595PluckHarvestCode_9546GDBtn_95959595HarvestContinueObjects1Objects = Hashtable.newFrom({"Btn_HarvestContinue": gdjs.S05B_95PluckHarvestCode.GDBtn_9595HarvestContinueObjects1});
-gdjs.S05B_95PluckHarvestCode.userFunc0x11e2da0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S05B_95PluckHarvestCode.userFunc0x9579f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1362,7 +1362,7 @@ gdjs.S05B_95PluckHarvestCode.eventsList19 = function(runtimeScene) {
 {
 
 
-gdjs.S05B_95PluckHarvestCode.userFunc0x11e2da0(runtimeScene);
+gdjs.S05B_95PluckHarvestCode.userFunc0x9579f0(runtimeScene);
 
 }
 

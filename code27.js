@@ -168,7 +168,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.GDUI_9595EnergyTextObjects2= [];
 gdjs.SC_95HerbalHouse_95InteriorCode.GDUI_9595EnergyTextObjects3= [];
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1fbb970 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbb3718 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1337,12 +1337,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1fbb970(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbb3718(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2873968 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xa6a9c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3622,12 +3622,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2873968(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xa6a9c0(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe81318 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x956d40 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -5882,12 +5882,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe81318(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x956d40(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1764680 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x10d7a48 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -6700,12 +6700,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1764680(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x10d7a48(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb18b60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1915030 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -6821,12 +6821,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList4 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb18b60(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1915030(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1d18d78 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1235630 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -7468,12 +7468,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList5 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1d18d78(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1235630(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2241390 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x11dd3f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -8182,12 +8182,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList6 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2241390(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x11dd3f0(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe657e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xcc9bd0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -8360,12 +8360,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList7 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe657e0(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xcc9bd0(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xc770d0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbba0c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -9321,12 +9321,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList8 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xc770d0(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbba0c0(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x127bf60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb13b78 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -9371,12 +9371,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList9 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x127bf60(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb13b78(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c1dfe8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12394a8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -10471,12 +10471,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList10 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c1dfe8(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12394a8(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c60170 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb78cd8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -10524,12 +10524,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList11 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c60170(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb78cd8(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbdbe60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xa523f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -11068,12 +11068,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList12 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbdbe60(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xa523f0(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbdc030 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1764918 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -11810,12 +11810,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList13 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xbdc030(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1764918(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x18071d0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x11f6900 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -12002,12 +12002,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList14 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x18071d0(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x11f6900(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14d6b60 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1563880 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -13412,12 +13412,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList15 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14d6b60(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1563880(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c7ff50 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12103f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -13958,7 +13958,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList16 = function(runtimeScene) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c7ff50(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12103f0(runtimeScene);
 
 }
 
@@ -14011,7 +14011,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1505428 = function GDJSInlineCode(runtimeScene, objects) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x19f3298 = function GDJSInlineCode(runtimeScene, objects) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -14417,7 +14417,7 @@ try {
     );
 }
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c77548 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1fc4898 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // INTERIOR SPAWN CONTROLLER
@@ -14463,7 +14463,7 @@ worldVars
     .getChildNamed("EntryPoint")
     .setString("Default");
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14c1518 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1bee5a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // INVENTORY & STORAGE DATA INIT
@@ -14638,7 +14638,7 @@ if (!testCreated) {
         .setBoolean(true);
 }
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14c1420 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb14e78 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // ITEM DATABASE INIT
@@ -14691,7 +14691,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList18 = function(runtimeScene) {
 gdjs.copyArray(runtimeScene.getObjects("ROOM_Floor"), gdjs.SC_95HerbalHouse_95InteriorCode.GDROOM_9595FloorObjects2);
 
 const objects = gdjs.SC_95HerbalHouse_95InteriorCode.GDROOM_9595FloorObjects2;
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1505428(runtimeScene, objects);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x19f3298(runtimeScene, objects);
 
 }
 
@@ -14699,7 +14699,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1505428(runtimeScene, objects);
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c77548(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1fc4898(runtimeScene);
 
 }
 
@@ -14707,7 +14707,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c77548(runtimeScene);
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14c1518(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1bee5a0(runtimeScene);
 
 }
 
@@ -14715,7 +14715,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14c1518(runtimeScene);
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14c1420(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xb14e78(runtimeScene);
 
 }
 
@@ -14757,7 +14757,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.eventsList18(runtimeScene);} //End of subev
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xdc64b8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe4b608 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // RUN INPUT - Keyboard
@@ -14850,7 +14850,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xdc64b8(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0xe4b608(runtimeScene);
 
 }
 
@@ -14877,7 +14877,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925070 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x21b5540 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -15186,7 +15186,7 @@ if (isConditionTrue_0) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925070(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x21b5540(runtimeScene);
 
 }
 
@@ -15248,7 +15248,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.SC_95HerbalHouse_95Interi
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x15052f8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c29680 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // PLAYER RUN SPEED CONTROLLER
@@ -15280,7 +15280,7 @@ if (movement) {
     );
 }
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1cdcb20 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12169f8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // PLAYER ANIMATION CONTROLLER - เรือน หมอ ยา
@@ -15496,7 +15496,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.SC_95HerbalHouse_95Interi
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x15052f8(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c29680(runtimeScene);
 
 }
 
@@ -15504,12 +15504,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x15052f8(runtimeScene);
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1cdcb20(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12169f8(runtimeScene);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925470 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1e42290 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -15939,7 +15939,7 @@ try {
     );
 }
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925550 = function GDJSInlineCode(runtimeScene) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1e3c560 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -16367,7 +16367,7 @@ try {
     );
 }
 };
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c55af0 = function GDJSInlineCode(runtimeScene, objects) {
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1172ae8 = function GDJSInlineCode(runtimeScene, objects) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -16675,7 +16675,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925470(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1e42290(runtimeScene);
 
 }
 
@@ -16683,7 +16683,7 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925470(runtimeScene);
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925550(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1e3c560(runtimeScene);
 
 }
 
@@ -16693,12 +16693,12 @@ gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x2925550(runtimeScene);
 gdjs.copyArray(runtimeScene.getObjects("ROOM_Floor"), gdjs.SC_95HerbalHouse_95InteriorCode.GDROOM_9595FloorObjects1);
 
 const objects = gdjs.SC_95HerbalHouse_95InteriorCode.GDROOM_9595FloorObjects1;
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1c55af0(runtimeScene, objects);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x1172ae8(runtimeScene, objects);
 
 }
 
 
-};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14361e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12283c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // STORAGE TEST ITEM DISPLAY
@@ -16943,7 +16943,7 @@ if (isConditionTrue_0) {
 {
 
 
-gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x14361e0(runtimeScene);
+gdjs.SC_95HerbalHouse_95InteriorCode.userFunc0x12283c0(runtimeScene);
 
 }
 
