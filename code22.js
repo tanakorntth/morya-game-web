@@ -17,7 +17,7 @@ gdjs.S08_95Result_95LegacyCode.GDBtn_9595ResultContinueObjects1= [];
 gdjs.S08_95Result_95LegacyCode.GDBtn_9595ResultContinueObjects2= [];
 
 
-gdjs.S08_95Result_95LegacyCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+gdjs.S08_95Result_95LegacyCode.userFunc0xf31a10 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -569,12 +569,12 @@ gdjs.S08_95Result_95LegacyCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S08_95Result_95LegacyCode.userFunc0x180d318(runtimeScene);
+gdjs.S08_95Result_95LegacyCode.userFunc0xf31a10(runtimeScene);
 
 }
 
 
-};gdjs.S08_95Result_95LegacyCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S08_95Result_95LegacyCode.userFunc0x1160968 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -647,7 +647,7 @@ gdjs.S08_95Result_95LegacyCode.eventsList0(runtimeScene);} //End of subevents
 {
 
 
-gdjs.S08_95Result_95LegacyCode.userFunc0x18243e0(runtimeScene);
+gdjs.S08_95Result_95LegacyCode.userFunc0x1160968(runtimeScene);
 
 }
 

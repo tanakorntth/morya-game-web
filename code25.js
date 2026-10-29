@@ -17,7 +17,7 @@ gdjs.S11_95KnowledgeResultCode.GDBtn_9595KResultContinueObjects1= [];
 gdjs.S11_95KnowledgeResultCode.GDBtn_9595KResultContinueObjects2= [];
 
 
-gdjs.S11_95KnowledgeResultCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+gdjs.S11_95KnowledgeResultCode.userFunc0xf1fba8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -312,7 +312,7 @@ gdjs.S11_95KnowledgeResultCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S11_95KnowledgeResultCode.userFunc0x180d318(runtimeScene);
+gdjs.S11_95KnowledgeResultCode.userFunc0xf1fba8(runtimeScene);
 
 }
 
@@ -327,7 +327,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.S11_95KnowledgeResultCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S11_95KnowledgeResultCode.userFunc0xf503e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const objects =
     runtimeScene.getObjects(
@@ -394,7 +394,7 @@ gdjs.S11_95KnowledgeResultCode.eventsList0(runtimeScene);} //End of subevents
 {
 
 
-gdjs.S11_95KnowledgeResultCode.userFunc0x18243e0(runtimeScene);
+gdjs.S11_95KnowledgeResultCode.userFunc0xf503e0(runtimeScene);
 
 }
 

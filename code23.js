@@ -42,7 +42,7 @@ gdjs.S09_95KnowledgeEncounterCode.GDBtn_9595KnowledgeHintObjects2= [];
 gdjs.S09_95KnowledgeEncounterCode.GDBtn_9595KnowledgeHintObjects3= [];
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S09_95KnowledgeEncounterCode.userFunc0xe98ec8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -150,12 +150,12 @@ gdjs.S09_95KnowledgeEncounterCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x9cf2a0(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0xe98ec8(runtimeScene);
 
 }
 
 
-};gdjs.S09_95KnowledgeEncounterCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S09_95KnowledgeEncounterCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -1020,12 +1020,12 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x180d318(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
 
-};gdjs.S09_95KnowledgeEncounterCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S09_95KnowledgeEncounterCode.userFunc0xf1fba8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const objects =
     runtimeScene.getObjects(
@@ -1072,7 +1072,7 @@ gdjs.evtTools.runtimeScene
         false
     );
 };
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x9579f0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S09_95KnowledgeEncounterCode.userFunc0x1f79ae8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -1326,7 +1326,7 @@ for (
     break;
 }
 };
-gdjs.S09_95KnowledgeEncounterCode.userFunc0xa22ff0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S09_95KnowledgeEncounterCode.userFunc0x11773c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -1458,7 +1458,7 @@ console.log(
     task.task_id
 );
 };
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x95a558 = function GDJSInlineCode(runtimeScene) {
+gdjs.S09_95KnowledgeEncounterCode.userFunc0xe77cb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -1690,7 +1690,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x18243e0(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0xf1fba8(runtimeScene);
 
 }
 
@@ -1698,7 +1698,7 @@ gdjs.S09_95KnowledgeEncounterCode.userFunc0x18243e0(runtimeScene);
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x9579f0(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0x1f79ae8(runtimeScene);
 
 }
 
@@ -1706,7 +1706,7 @@ gdjs.S09_95KnowledgeEncounterCode.userFunc0x9579f0(runtimeScene);
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0xa22ff0(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0x11773c0(runtimeScene);
 
 }
 
@@ -1714,7 +1714,7 @@ gdjs.S09_95KnowledgeEncounterCode.userFunc0xa22ff0(runtimeScene);
 {
 
 
-gdjs.S09_95KnowledgeEncounterCode.userFunc0x95a558(runtimeScene);
+gdjs.S09_95KnowledgeEncounterCode.userFunc0xe77cb0(runtimeScene);
 
 }
 

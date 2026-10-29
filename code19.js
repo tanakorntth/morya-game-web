@@ -19,7 +19,7 @@ gdjs.S06_95Counselling_95LegacyCode.GDBtn_9595ConfirmCounsellingObjects1= [];
 gdjs.S06_95Counselling_95LegacyCode.GDBtn_9595ConfirmCounsellingObjects2= [];
 
 
-gdjs.S06_95Counselling_95LegacyCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95Counselling_95LegacyCode.userFunc0xdc0e00 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -453,12 +453,12 @@ gdjs.S06_95Counselling_95LegacyCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S06_95Counselling_95LegacyCode.userFunc0x180d318(runtimeScene);
+gdjs.S06_95Counselling_95LegacyCode.userFunc0xdc0e00(runtimeScene);
 
 }
 
 
-};gdjs.S06_95Counselling_95LegacyCode.userFunc0xe701a0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S06_95Counselling_95LegacyCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -644,7 +644,7 @@ for (
     break;
 }
 };
-gdjs.S06_95Counselling_95LegacyCode.userFunc0xb7e2c8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S06_95Counselling_95LegacyCode.userFunc0xf31a10 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -903,7 +903,7 @@ gdjs.S06_95Counselling_95LegacyCode.eventsList0(runtimeScene);} //End of subeven
 {
 
 
-gdjs.S06_95Counselling_95LegacyCode.userFunc0xe701a0(runtimeScene);
+gdjs.S06_95Counselling_95LegacyCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
@@ -911,7 +911,7 @@ gdjs.S06_95Counselling_95LegacyCode.userFunc0xe701a0(runtimeScene);
 {
 
 
-gdjs.S06_95Counselling_95LegacyCode.userFunc0xb7e2c8(runtimeScene);
+gdjs.S06_95Counselling_95LegacyCode.userFunc0xf31a10(runtimeScene);
 
 }
 

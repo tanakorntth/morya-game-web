@@ -19,7 +19,7 @@ gdjs.S05_95Intervention_95LegacyCode.GDBtn_9595Intervention5Objects2= [];
 
 gdjs.S05_95Intervention_95LegacyCode.eventsList0 = function(runtimeScene) {
 
-};gdjs.S05_95Intervention_95LegacyCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05_95Intervention_95LegacyCode.userFunc0x94c6e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -96,12 +96,12 @@ gdjs.S05_95Intervention_95LegacyCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S05_95Intervention_95LegacyCode.userFunc0xbb6e58(runtimeScene);
+gdjs.S05_95Intervention_95LegacyCode.userFunc0x94c6e0(runtimeScene);
 
 }
 
 
-};gdjs.S05_95Intervention_95LegacyCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S05_95Intervention_95LegacyCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -815,7 +815,7 @@ gdjs.S05_95Intervention_95LegacyCode.eventsList1(runtimeScene);} //End of subeve
 {
 
 
-gdjs.S05_95Intervention_95LegacyCode.userFunc0x135c8e8(runtimeScene);
+gdjs.S05_95Intervention_95LegacyCode.userFunc0x1280bb0(runtimeScene);
 
 }
 

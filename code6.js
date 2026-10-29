@@ -27,7 +27,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.GDBtn_9595MakeDecisionObjects1= [];
 gdjs.S03_95ClinicalEncounter_95LegacyCode.GDBtn_9595MakeDecisionObjects2= [];
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xb15940 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -893,7 +893,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1278678(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xb15940(runtimeScene);
 
 }
 
@@ -908,7 +908,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x181a458 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 const askObjects =
@@ -1139,7 +1139,7 @@ if (askButton) {
     }
 }
 };
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x94c6e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -1715,7 +1715,7 @@ for (
     break;
 }
 };
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const gameData =
     globalThis.MorYaGameData;
@@ -1838,7 +1838,7 @@ if (prevObjects.length > 0) {
     }
 }
 };
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xe4faf8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -2019,7 +2019,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.eventsList0(runtimeScene);} //End of s
 {
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xbb6e58(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x181a458(runtimeScene);
 
 }
 
@@ -2027,7 +2027,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xbb6e58(runtimeScene);
 {
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x135c8e8(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x94c6e0(runtimeScene);
 
 }
 
@@ -2035,7 +2035,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x135c8e8(runtimeScene);
 {
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1368998(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
@@ -2043,7 +2043,7 @@ gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x1368998(runtimeScene);
 {
 
 
-gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0x9cf2a0(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95LegacyCode.userFunc0xe4faf8(runtimeScene);
 
 }
 

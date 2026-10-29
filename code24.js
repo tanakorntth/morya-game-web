@@ -21,7 +21,7 @@ gdjs.S10_95HerbCardCode.GDBtn_9595HerbCardFinishObjects2= [];
 gdjs.S10_95HerbCardCode.GDBtn_9595HerbCardFinishObjects3= [];
 
 
-gdjs.S10_95HerbCardCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+gdjs.S10_95HerbCardCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
 
@@ -486,12 +486,12 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.S10_95HerbCardCode.userFunc0x180d318(runtimeScene);
+gdjs.S10_95HerbCardCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
 
-};gdjs.S10_95HerbCardCode.userFunc0x18243e0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S10_95HerbCardCode.userFunc0xf1fba8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // =========================================================
 // MorYa Demo0.1
@@ -1290,7 +1290,7 @@ gdjs.S10_95HerbCardCode.eventsList0(runtimeScene);} //End of subevents
 {
 
 
-gdjs.S10_95HerbCardCode.userFunc0x18243e0(runtimeScene);
+gdjs.S10_95HerbCardCode.userFunc0xf1fba8(runtimeScene);
 
 }
 

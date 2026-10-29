@@ -73,7 +73,7 @@ gdjs.S08_95ResultCode.GDBtn_9595S08_9595CloseDetailsObjects1= [];
 gdjs.S08_95ResultCode.GDBtn_9595S08_9595CloseDetailsObjects2= [];
 
 
-gdjs.S08_95ResultCode.userFunc0x9a6a70 = function GDJSInlineCode(runtimeScene) {
+gdjs.S08_95ResultCode.userFunc0xe90460 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -181,12 +181,12 @@ gdjs.S08_95ResultCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S08_95ResultCode.userFunc0x9a6a70(runtimeScene);
+gdjs.S08_95ResultCode.userFunc0xe90460(runtimeScene);
 
 }
 
 
-};gdjs.S08_95ResultCode.userFunc0x180d318 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S08_95ResultCode.userFunc0x1160968 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -2155,7 +2155,7 @@ gdjs.S08_95ResultCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S08_95ResultCode.userFunc0x180d318(runtimeScene);
+gdjs.S08_95ResultCode.userFunc0x1160968(runtimeScene);
 
 }
 
@@ -2200,7 +2200,7 @@ gdjs.copyArray(runtimeScene.getObjects("Bar_S08_Safety"), gdjs.S08_95ResultCode.
 }
 
 
-};gdjs.S08_95ResultCode.userFunc0x21240d8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S08_95ResultCode.userFunc0x1d12d18 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3447,12 +3447,12 @@ gdjs.S08_95ResultCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S08_95ResultCode.userFunc0x21240d8(runtimeScene);
+gdjs.S08_95ResultCode.userFunc0x1d12d18(runtimeScene);
 
 }
 
 
-};gdjs.S08_95ResultCode.userFunc0xc0b7a0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S08_95ResultCode.userFunc0x139e0d8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -3732,7 +3732,7 @@ try {
     );
 }
 };
-gdjs.S08_95ResultCode.userFunc0xb7bb20 = function GDJSInlineCode(runtimeScene) {
+gdjs.S08_95ResultCode.userFunc0x12d4cc8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -4234,7 +4234,7 @@ gdjs.S08_95ResultCode.eventsList3 = function(runtimeScene) {
 {
 
 
-gdjs.S08_95ResultCode.userFunc0xc0b7a0(runtimeScene);
+gdjs.S08_95ResultCode.userFunc0x139e0d8(runtimeScene);
 
 }
 
@@ -4242,7 +4242,7 @@ gdjs.S08_95ResultCode.userFunc0xc0b7a0(runtimeScene);
 {
 
 
-gdjs.S08_95ResultCode.userFunc0xb7bb20(runtimeScene);
+gdjs.S08_95ResultCode.userFunc0x12d4cc8(runtimeScene);
 
 }
 

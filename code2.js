@@ -33,7 +33,7 @@ gdjs.S01_95TutorialGuideCode.GDTxt_9595TutorialPageObjects1= [];
 gdjs.S01_95TutorialGuideCode.GDTxt_9595TutorialPageObjects2= [];
 
 
-gdjs.S01_95TutorialGuideCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S01_95TutorialGuideCode.userFunc0xb15940 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -479,12 +479,12 @@ gdjs.S01_95TutorialGuideCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95TutorialGuideCode.userFunc0x1278678(runtimeScene);
+gdjs.S01_95TutorialGuideCode.userFunc0xb15940(runtimeScene);
 
 }
 
 
-};gdjs.S01_95TutorialGuideCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S01_95TutorialGuideCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S01T - TUTORIAL VISUAL ENGINE
@@ -662,12 +662,12 @@ gdjs.S01_95TutorialGuideCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95TutorialGuideCode.userFunc0x9cf2a0(runtimeScene);
+gdjs.S01_95TutorialGuideCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
 
-};gdjs.S01_95TutorialGuideCode.userFunc0x20ea008 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S01_95TutorialGuideCode.userFunc0xe4faf8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // S01T - TUTORIAL INPUT ROUTER
@@ -856,7 +856,7 @@ gdjs.S01_95TutorialGuideCode.eventsList2 = function(runtimeScene) {
 {
 
 
-gdjs.S01_95TutorialGuideCode.userFunc0x20ea008(runtimeScene);
+gdjs.S01_95TutorialGuideCode.userFunc0xe4faf8(runtimeScene);
 
 }
 

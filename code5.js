@@ -67,7 +67,7 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDTxt_9595ExploreQuotaObjec
 gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDTxt_9595ExploreQuotaObjects2= [];
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xb15940 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -996,12 +996,12 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList0 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1278678(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xb15940(runtimeScene);
 
 }
 
 
-};gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1368998 = function GDJSInlineCode(runtimeScene) {
+};gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x181a458 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 
 };
@@ -1010,13 +1010,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList1 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1368998(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x181a458(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDHotspot_95959595ClockObjects1Objects = Hashtable.newFrom({"Hotspot_Clock": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDHotspot_9595ClockObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x9cf2a0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x94c6e0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1095,13 +1095,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList2 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x9cf2a0(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x94c6e0(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDHotspot_95959595DinnerObjects1Objects = Hashtable.newFrom({"Hotspot_Dinner": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDHotspot_9595DinnerObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x20ea008 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1280bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // CASE001 - DINNER
 
@@ -1136,13 +1136,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList3 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x20ea008(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x1280bb0(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDHotspot_95959595WaterObjects1Objects = Hashtable.newFrom({"Hotspot_Water": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDHotspot_9595WaterObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x123d0b0 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe4faf8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // CASE001 - WATER
 
@@ -1177,13 +1177,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList4 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x123d0b0(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe4faf8(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDHotspot_95959595MedicineObjects1Objects = Hashtable.newFrom({"Hotspot_Medicine": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDHotspot_9595MedicineObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe90460 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // CASE001 - MEDICINE
 
@@ -1218,13 +1218,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList5 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xbb6e58(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe90460(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDBtn_95959595InspectAskObjects1Objects = Hashtable.newFrom({"Btn_InspectAsk": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDBtn_9595InspectAskObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x9a6a70 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe532f0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1771,13 +1771,13 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList6 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x9a6a70(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0xe532f0(runtimeScene);
 
 }
 
 
 };gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.mapOfGDgdjs_9546S03_959595ClinicalEncounter_959595ExploreCheckpointCode_9546GDBtn_95959595InspectCloseObjects1Objects = Hashtable.newFrom({"Btn_InspectClose": gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.GDBtn_9595InspectCloseObjects1});
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x135c8e8 = function GDJSInlineCode(runtimeScene) {
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x8befb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -1986,7 +1986,7 @@ gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.eventsList7 = function(runt
 {
 
 
-gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x135c8e8(runtimeScene);
+gdjs.S03_95ClinicalEncounter_95ExploreCheckpointCode.userFunc0x8befb0(runtimeScene);
 
 }
 

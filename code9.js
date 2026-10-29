@@ -21,7 +21,7 @@ gdjs.S04B_95UrgentReferralCode.GDBG_9595UrgentReferralObjects1= [];
 gdjs.S04B_95UrgentReferralCode.GDBG_9595UrgentReferralObjects2= [];
 
 
-gdjs.S04B_95UrgentReferralCode.userFunc0x1278678 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04B_95UrgentReferralCode.userFunc0xb15940 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -355,13 +355,13 @@ gdjs.S04B_95UrgentReferralCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.S04B_95UrgentReferralCode.userFunc0x1278678(runtimeScene);
+gdjs.S04B_95UrgentReferralCode.userFunc0xb15940(runtimeScene);
 
 }
 
 
 };gdjs.S04B_95UrgentReferralCode.mapOfGDgdjs_9546S04B_959595UrgentReferralCode_9546GDBtn_95959595UrgentContinueObjects1Objects = Hashtable.newFrom({"Btn_UrgentContinue": gdjs.S04B_95UrgentReferralCode.GDBtn_9595UrgentContinueObjects1});
-gdjs.S04B_95UrgentReferralCode.userFunc0xbb6e58 = function GDJSInlineCode(runtimeScene) {
+gdjs.S04B_95UrgentReferralCode.userFunc0x181a458 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ======================================================
 // เรือน หมอ ยา
@@ -476,7 +476,7 @@ gdjs.S04B_95UrgentReferralCode.eventsList1 = function(runtimeScene) {
 {
 
 
-gdjs.S04B_95UrgentReferralCode.userFunc0xbb6e58(runtimeScene);
+gdjs.S04B_95UrgentReferralCode.userFunc0x181a458(runtimeScene);
 
 }
 
